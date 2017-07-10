@@ -1,6 +1,16 @@
 # LinkedIn-ViewBot
 View bot for LinkedIn to help boost profile views.
 
+# --------------------------------------------
+USAGE:
+1. CREATE PAGE.TXT FILE CONTAINING ONLY THE CHARACTER 1 IF USING A NEW KEYWORD
+2. DOWNLOAD PYTHON 3.6.1
+3. OPEN COMMAND LINE (WINDOWS BUTTON, SEARCH FOR CMD)
+4. NAVIGATE TO FOLDER CONTAINING PAGE.TXT AND LINKEDIN VIEWBOT (USE CD .. TO GO UP A FOLDER, CD [FOLDERNAME] TO GO INTO A FOLDER)
+5. TYPE: PYTHON [NAME OF LINKEDIN VIEWBOT FILE]
+6. FOLLOW PROMPTS TO ENTER LOGIN INFO, SEARCH KEYWORD, AND NUMBER OF PROFILES TO VIEW
+# --------------------------------------------
+
 Created by by James Gan: github.com/jamesylgan
 Edited from cipavlou's linkedin-viewer-bot: https://github.com/cipavlou/linkedin-viewer-bot
 
