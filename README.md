@@ -1,6 +1,8 @@
 # LinkedIn-ViewBot
 View bot for LinkedIn to help boost profile views.
 
+# For educational purposes only. This definitely breaks their TOS and will get you banned.
+
 # --------------------------------------------
 USAGE:
 1. CREATE PAGE.TXT FILE CONTAINING ONLY THE CHARACTER 1 IF USING A NEW KEYWORD
