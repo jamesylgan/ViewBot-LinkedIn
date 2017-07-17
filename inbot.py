@@ -11,6 +11,7 @@ import getpass
 """
 Created by by James Gan: github.com/jamesylgan
 Edited from cipavlou's linkedin-viewer-bot: https://github.com/cipavlou/linkedin-viewer-bot
+For educational purposes only. This definitely breaks their TOS and will get you banned.
 """
 
 email = input("Enter your account email: ")
