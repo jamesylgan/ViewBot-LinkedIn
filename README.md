@@ -14,6 +14,7 @@ USAGE:
 # --------------------------------------------
 
 Created by by James Gan: github.com/jamesylgan
+
 Edited from cipavlou's linkedin-viewer-bot: https://github.com/cipavlou/linkedin-viewer-bot
 
 Copyright 2017 James Gan
